@@ -1,0 +1,23 @@
+src/mdm/agents/windsurf.rs
+  s_cea2e4b3af1f79::t_fdb4d7221e7c22 403-408,410,414-421,427-429
+  s_cea2e4b3af1f79::t_6884e555e6f1c2 423-426
+src/mdm/agents/cursor.rs
+  s_cea2e4b3af1f79::t_8e401774c92e36 408,412-419,425-427
+  s_cea2e4b3af1f79::t_6884e555e6f1c2 421-424
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "4f88500132ab4950d39b77513cd5b4f917fe3919",
+  "prompts": {},
+  "sessions": {
+    "s_cea2e4b3af1f79": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e111d39d-5ec3-40a3-924c-bceb3ca9a256",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "poi1649 <bojun.kim@deliveryhero.com>"
+    }
+  }
+}
